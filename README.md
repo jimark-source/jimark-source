@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate Web Dev projects
-- 📫 How to reach me aseijuru@gmail.com
+- 📫 How to reach me through aseijuru@gmail.com
 
 <!---
 jimark-source/jimark-source is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
